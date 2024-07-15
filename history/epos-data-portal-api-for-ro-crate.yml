@@ -1,7 +1,7 @@
-url: https://ics-c.epos-ip.org/rocrateservice/eposgeojson/
-status: down
-code: 404
-responseTime: 153
-lastUpdated: 2024-07-15T11:38:44.832Z
+url: https://ics-c.epos-ip.org/rocrateservice/eposgeojson
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2024-07-15T11:41:35.856Z
 startTime: 2024-07-15T11:35:07.812Z
 generator: Upptime <https://github.com/upptime/upptime>
