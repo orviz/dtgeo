@@ -7,14 +7,16 @@ sites:
     url: https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/api/v1
     expectedStatusCodes:
     - 403
+    - 404
   - name: DT-GEO metadata catalog WEB
     url: https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/
   - name: EPOS Data Portal API
     url: https://www.ics-c.epos-eu.org/api/v1/
     expectedStatusCodes:
     - 403
+    - 404
   - name: EPOS Data Portal API for RO-Crate
-    url: https://ics-c.epos-ip.org/rocrateservice/eposgeojson/
+    url: https://ics-c.epos-ip.org/rocrateservice/eposgeojson
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
