@@ -5,10 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: DT-GEO metadata catalog prototype API
     url: https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/api/v1
-  - name: DT-GEO metadata catalog
+    expectedStatusCodes:
+    - 403
+  - name: DT-GEO metadata catalog WEB
     url: https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/
   - name: EPOS Data Portal API
     url: https://www.ics-c.epos-eu.org/api/v1/
+    expectedStatusCodes:
+    - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
