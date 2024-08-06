@@ -16,7 +16,7 @@
     "timeMonth": 1701,
     "timeYear": 1701,
     "dailyMinutesDown": {
-      "2024-08-06": 691,
+      "2024-08-06": 699,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -46,18 +46,20 @@
     "url": "https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/",
     "icon": "https://icons.duckduckgo.com/ip3/ics-c.epos-ip.org.ico",
     "slug": "dt-geo-metadata-catalog-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 279,
-    "timeWeek": 213,
-    "timeMonth": 226,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "time": 222,
+    "timeDay": 196,
+    "timeWeek": 200,
+    "timeMonth": 222,
+    "timeYear": 222,
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "EPOS Data Portal API",
@@ -85,18 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ics-c.epos-ip.org.ico",
     "slug": "epos-data-portal-api-for-ro-crate",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 177,
     "timeWeek": 130,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {
-      "2024-08-06": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
