@@ -16,7 +16,7 @@
     "timeMonth": 1701,
     "timeYear": 1701,
     "dailyMinutesDown": {
-      "2024-08-06": 816,
+      "2024-08-06": 824,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ics-c.epos-ip.org.ico",
     "slug": "dt-geo-metadata-catalog-web",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.86%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 217,
     "timeDay": 189,
     "timeWeek": 195,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-08-06": 36
+      "2024-08-06": 44
     }
   },
   {
@@ -86,17 +86,19 @@
     "url": "https://ics-c.epos-ip.org/rocrateservice/eposgeojson",
     "icon": "https://icons.duckduckgo.com/ip3/ics-c.epos-ip.org.ico",
     "slug": "epos-data-portal-api-for-ro-crate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 185,
-    "timeWeek": 142,
-    "timeMonth": 131,
-    "timeYear": 131,
-    "dailyMinutesDown": {}
+    "time": 130,
+    "timeDay": 165,
+    "timeWeek": 137,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   }
 ]
