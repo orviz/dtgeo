@@ -16,7 +16,7 @@
     "timeMonth": 1701,
     "timeYear": 1701,
     "dailyMinutesDown": {
-      "2024-08-06": 38,
+      "2024-08-06": 684,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -84,7 +84,7 @@
     "url": "https://ics-c.epos-ip.org/rocrateservice/eposgeojson",
     "icon": "https://icons.duckduckgo.com/ip3/ics-c.epos-ip.org.ico",
     "slug": "epos-data-portal-api-for-ro-crate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -95,6 +95,8 @@
     "timeWeek": 124,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   }
 ]
