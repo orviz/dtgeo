@@ -1,7 +1,7 @@
 url: https://www.ics-c.epos-eu.org/api/v1/
-status: up
-code: 404
-responseTime: 2573
-lastUpdated: 2024-09-04T23:16:35.707Z
+status: down
+code: 504
+responseTime: 16674
+lastUpdated: 2024-09-05T11:43:39.114Z
 startTime: 2024-07-15T11:08:08.006Z
 generator: Upptime <https://github.com/upptime/upptime>
