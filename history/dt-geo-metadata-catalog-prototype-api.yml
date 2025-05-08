@@ -1,7 +1,7 @@
 url: https://ics-c.epos-ip.org/development/k8s-epos-deploy/dt-geo/api/v1
-status: down
-code: 503
-responseTime: 632
-lastUpdated: 2025-05-08T11:19:22.255Z
+status: up
+code: 404
+responseTime: 777
+lastUpdated: 2025-05-08T11:30:26.095Z
 startTime: 2024-07-15T11:08:01.585Z
 generator: Upptime <https://github.com/upptime/upptime>
